@@ -2,7 +2,6 @@
 
 ## 🚀 AWS DevOps Engineer | Cloud Infrastructure Specialist
 
-Results-driven DevOps Engineer with 2+ years of experience designing scalable cloud infrastructures and automating CI/CD pipelines. Passionate about infrastructure automation, performance optimization, and building reliable cloud-native solutions.
 
 ### 💼 Professional Highlights
 
