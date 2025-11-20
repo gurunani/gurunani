@@ -68,9 +68,7 @@ Learning repository for Linux, DevOps tools, and best practices
 - Infrastructure automation examples
 - Documentation and reference materials
 
-### 📊 GitHub Stats
-
-![Guruvinder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurunani&show_icons=true&theme=radical&hide_border=true&count_private=true)
+###  Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurunani&layout=compact&theme=radical&hide_border=true)
 
